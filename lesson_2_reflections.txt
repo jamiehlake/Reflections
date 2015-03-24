@@ -4,3 +4,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers? 
 	The staging area allows you to group more than one file together or to let you only work with one file instaed of all of them. 
+
+How can you use the staging area to make sure you have one commit per logical change? 
+	It allows you to choose specific files you would like to commit to. 
+	Has colours to indicate which files have been modified. 
+
+
+
