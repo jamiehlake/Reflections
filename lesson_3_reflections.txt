@@ -12,4 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	I would have to make 2 saves and use bittorrent sync. It would be more simple but will not be able to have commits and multiple saves will take a lot of disk space. 
-	
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	If you are unsure of the changes or if it is your personal change and may not be usable for the master. It is easier to just change it in master as you do not have to merge. 
